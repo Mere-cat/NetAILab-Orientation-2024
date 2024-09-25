@@ -1,4 +1,4 @@
-# Topic1 Assignment Report
+# Topic1 Assignment
 Topic1: Machine Learning + sklearn
 
 Assignment:

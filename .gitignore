@@ -8,3 +8,4 @@ vocab.*
 model*
 test_outputs.txt
 cat_dog_kaggle/
+data/

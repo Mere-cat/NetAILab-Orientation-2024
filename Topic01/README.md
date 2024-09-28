@@ -1,7 +1,7 @@
 # Topic1 Assignment
 Topic1: Machine Learning + sklearn
 
-Assignment:
+## Assignment List:
 * hw_topic1.ipynb
 
 ## hw_topic1.ipynb

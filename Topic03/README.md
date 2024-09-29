@@ -8,8 +8,6 @@ Topic3: Sequence Model
 
 作業希望完成模型挖空的 TO-DOs，以建立一 seq2seq 的機器翻譯模型（且加入了 attention 機制）。
 
-在作業中，首先要完成
-
 ### TO-DO 1: Implement Padding
 ```python
 def pad_sents(sents, pad_token):

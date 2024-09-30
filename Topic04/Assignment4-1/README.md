@@ -1,4 +1,12 @@
 # Topic4 Report
+
+## 作業要求
+1. 開通 server 的使用權限
+2. 在 server 上的自己的帳號底下先從這個 URL 將 repo clone 下來(此步驟會需要大家在自己的 server 帳號底下 create ssh key 並且把 pubkey 上傳到 github，才能進行後續的 git clone 到 server 的動作)
+3. 在 Github 上創建一個空的 repo 並同樣在 server 上 clone 到自己的帳號底下
+4. 完成 transfer_learning_resnet34.ipynb 的 todo 部分
+5. 將 transfer_learning_resnet34.ipynb 複製到自己的空 repo 裡面，並 push 到 github 端(注意是 push 到自己創建的 repo上，不是 push 到上方那個 repo URL)
+
 ## TO-DO
 ```python
 import torchvision.models as models

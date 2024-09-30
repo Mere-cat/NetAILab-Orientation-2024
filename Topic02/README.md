@@ -89,6 +89,3 @@ Linear 線性切分 Spiral 資料，分佈圖看起來和 Sigmoid 非常相近
 
 ##### 7 features
 ![](image/q3-3-test2.png)
-
-### Conclusion
-TODO
